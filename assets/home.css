@@ -1,0 +1,41 @@
+html{
+    overflow-x: hidden;
+}
+body{
+font-family: Arvo, serif;
+}
+#ups{
+text-decoration: none;
+text-align: center;
+font-size: 25px;
+color: white;
+
+}
+
+
+
+p{
+font-family: 'Solway';
+color: black;
+padding: 15px;
+margin: 10px;
+font-size: 18px;
+}
+h2{
+color: black;
+font-family: 'Solway';
+padding: 10px;
+margin-top: 10px;
+letter-spacing: 1px;
+
+}
+
+
+
+
+
+.contact{
+text-align: center;
+margin-top: 30px;
+
+}
